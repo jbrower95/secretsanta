@@ -7,12 +7,11 @@ Secret Santa - A python script for managing a secret santa group / gift exchange
 Usage:
 
 Make a file with three columns, whitespace seperated, as follows:
-
-FIRST LAST EMAIL
+...
 FIRST LAST EMAIL
 ...
 
-Include no extra blank lines.
+Include no extra blank lines. 
 
 Once you have this file, quickly set up a gmail account for the group to receive messages from. Alternatively, use one of your own gmail addresses.
 
